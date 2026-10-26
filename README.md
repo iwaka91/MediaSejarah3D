@@ -2,17 +2,21 @@
 
 Proyek media pembelajaran sejarah 3D yang menggabungkan perancangan materi, pembuatan pengalaman interaktif dengan Argon, dan penyempurnaan aset serta tampilan.
 
+## Keluaran satu proyek
+
+Satu proyek dapat dikembangkan menjadi media ajar 3D interaktif, video promosi dalam versi landscape dan potret, serta tur interaktif bergaya game sebagai opsi lanjutan. Tur dengan karakter playable perlu dibahas dan disepakati sebelum dibuat.
+
 ## Karya
 
 | Judul | Status | Media |
 |---|---|---|
 | [Kerajaan Kutai](katalog/kerajaan-kutai.md) | Publish | [Media interaktif](https://kerajaankutai.totogutomo.com) · [Video landscape di YouTube](https://youtu.be/ZtJuamaNy-8?si=2InwKSBU2pdUxQnz) |
 
-Video versi mobile direncanakan untuk diposting di media sosial Toto Gutomo. Tautan akan ditambahkan setelah publikasi.
+Video versi potret disiapkan untuk diposting di media sosial Toto Gutomo. Tautan akan ditambahkan setelah publikasi.
 
 ## Alur kerja
 
-Lihat [Panduan alur kerja](docs/ALUR_KERJA.md) untuk pembagian tugas dan standar serah terima.
+Lihat [Panduan alur kerja](docs/ALUR_KERJA.md) untuk tahapan, pembagian tugas, dan standar serah terima.
 
 ## Pengelolaan aset
 
