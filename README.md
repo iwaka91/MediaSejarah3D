@@ -10,9 +10,7 @@ Satu proyek dapat dikembangkan menjadi media ajar 3D interaktif, video promosi d
 
 | Judul | Status | Media |
 |---|---|---|
-| [Kerajaan Kutai](katalog/kerajaan-kutai.md) | Publish | [Media interaktif](https://kerajaankutai.totogutomo.com) · [Video landscape di YouTube](https://youtu.be/ZtJuamaNy-8?si=2InwKSBU2pdUxQnz) |
-
-Video versi potret disiapkan untuk diposting di media sosial Toto Gutomo. Tautan akan ditambahkan setelah publikasi.
+| [Kerajaan Kutai](katalog/kerajaan-kutai.md) | Publish | [Media interaktif](https://kerajaankutai.totogutomo.com) · [YouTube](https://youtu.be/ZtJuamaNy-8?si=2InwKSBU2pdUxQnz) · [Instagram Reels](https://www.instagram.com/reel/De9H2muRqa5/?psln=YmpvcjZrZzc0cXBj) · [TikTok](https://vt.tiktok.com/ZSgXEkjXV/) |
 
 ## Alur kerja
 
