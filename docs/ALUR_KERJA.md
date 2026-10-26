@@ -1,5 +1,15 @@
 # Alur Kerja Media Sejarah 3D
 
+Satu proyek dapat menghasilkan beberapa keluaran yang saling mendukung. Bentuk dan urutan pengerjaannya dibahas sesuai kebutuhan proyek.
+
+## Keluaran yang dapat dikembangkan
+
+1. **Media ajar 3D interaktif** sebagai karya utama, berisi adegan, penjelasan materi, dan interaksi belajar.
+2. **Video promosi** dari preview media dan aset asli, dalam format landscape dan potret. Isi, durasi, musik, dan ajakan bertindak disesuaikan dengan kanal publikasi.
+3. **Tur interaktif bergaya game** sebagai pengembangan opsional. Pengguna dapat mengarahkan karakter untuk menjelajahi adegan dan memakai tombol aksi, misalnya lompat atau berinteraksi. Format ini dapat mendukung voice-over pembelajaran ala YouTuber game.
+
+Keluaran ketiga masih berupa gagasan sampai konsep dan kebutuhannya dibahas dan disepakati. Sebelum implementasi, tentukan peran karakter, kontrol, fungsi tombol, batas gerak, interaksi dengan materi, serta perangkat sasaran.
+
 ## 1. Rancang materi dan pengalaman
 
 Tentukan tujuan belajar, sasaran pengguna, pokok materi, urutan adegan, interaksi, dan bentuk publikasi. Pisahkan fakta sumber sejarah, penjelasan penelitian, dan rekonstruksi visual agar siswa dapat membedakannya.
@@ -28,13 +38,21 @@ Pilih aset 3D matang yang sesuai dengan adegan. Periksa kecocokan bentuk, skala,
 
 Tinjau ketepatan isi, keterbacaan, alur interaksi, tampilan pada perangkat sasaran, dan performa. Catat bagian yang merupakan rekonstruksi atau asumsi bila hal itu penting untuk pemahaman sejarah.
 
-## 6. Publikasikan dan katalogkan
+## 6. Siapkan video promosi
 
-Setelah media siap, catat judul, ringkasan, status, tautan demo, tautan video per format, serta keterangan publikasi di folder `katalog/`. Tambahkan tautan video mobile setelah benar-benar tayang.
+Ambil gambar dari preview media dan aset asli agar video merepresentasikan karya yang benar-benar dibuat. Rencanakan versi landscape dan potret sesuai kanal; atur urutan adegan, musik, informasi pendukung, serta ruang yang cukup untuk ajakan bertindak dan tautan.
+
+## 7. Bahas tur interaktif opsional
+
+Jika tur bergaya game dibutuhkan, diskusikan konsepnya setelah media utama ditinjau. Sepakati pengalaman belajar, karakter, kontrol, tombol aksi, dan naskah voice-over sebelum meminta implementasi. Jangan menganggap pertanyaan eksploratif atau prototipe awal sebagai persetujuan konsep.
+
+## 8. Publikasikan dan katalogkan
+
+Setelah media siap, catat judul, ringkasan, status, tautan media ajar, tautan video per format, serta keterangan publikasi di folder `katalog/`. Cantumkan tautan video potret setelah benar-benar tayang.
 
 ## Pembagian kerja
 
-- **Pak Guru:** keputusan materi, tujuan belajar, dan persetujuan publikasi.
+- **Pak Guru:** keputusan materi, tujuan belajar, pilihan keluaran, dan persetujuan publikasi.
 - **ChatGPT:** merumuskan struktur dan prompt, memilih atau menyiapkan aset yang sesuai, mengintegrasikan aset, serta memoles visual dan materi.
 - **Argon:** membangun pengalaman 3D, struktur adegan, interaksi, animasi dasar, dan kerangka proyek yang mudah disunting.
 
