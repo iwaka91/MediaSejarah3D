@@ -4,9 +4,14 @@
 
 Media pembelajaran sejarah interaktif 3D tentang Kerajaan Kutai. Karya ini menjadi hasil pertama dalam proyek Media Sejarah 3D.
 
-- **Media interaktif:** [kerajaankutai.totogutomo.com](https://kerajaankutai.totogutomo.com)
+## Keluaran
+
+1. **Media ajar 3D interaktif:** [kerajaankutai.totogutomo.com](https://kerajaankutai.totogutomo.com)
+2. **Video promosi:** versi landscape tayang di YouTube; versi potret disiapkan untuk media sosial.
+3. **Tur interaktif bergaya game:** opsi pengembangan lanjutan dengan karakter playable dan tombol aksi. Konsep, kontrol, dan fungsi belajarnya perlu dibahas sebelum implementasi.
+
 - **Video promosi landscape:** [Tonton di YouTube](https://youtu.be/ZtJuamaNy-8?si=2InwKSBU2pdUxQnz)
-- **Video promosi mobile:** direncanakan untuk diposting di media sosial Toto Gutomo; tautan menyusul.
+- **Video promosi potret:** tautan akan ditambahkan setelah dipublikasikan di media sosial Toto Gutomo.
 
 ## Catatan aset
 
